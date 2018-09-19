@@ -1,0 +1,25 @@
+baseURL = "http://www.elizastarr.com"
+languageCode = "en-us"
+title = "Eliza Starr"
+theme = "sam"
+
+[params]
+footerText =""
+homepage = "home"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "who is eliza?"
+
+[[params.mainMenu]]
+    link = "/connect"
+    text = "connect"
+
+[[params.mainMenu]]
+    link = "/downloads/cv.pdf"
+    text = "curriculum vitae"
+
+[[params.mainMenu]]
+    link = "/downloads/cv.pdf"
+    text = "résumé"
+
