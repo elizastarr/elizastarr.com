@@ -1,6 +1,6 @@
-baseURL = "http://www.elizastarr.com"
+baseURL = "https://www.elizastarr.com"
 languageCode = "en-us"
-title = "Eliza Starr"
+title = "eliza starr"
 theme = "sam"
 
 [params]
@@ -10,10 +10,6 @@ homepage = "home"
 [[params.mainMenu]]
     link = "/about"
     text = "who is eliza?"
-
-[[params.mainMenu]]
-    link = "/connect"
-    text = "connect"
 
 [[params.mainMenu]]
     link = "/downloads/cv.pdf"
