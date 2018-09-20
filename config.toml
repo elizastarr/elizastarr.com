@@ -16,6 +16,6 @@ homepage = "home"
     text = "curriculum vitae"
 
 [[params.mainMenu]]
-    link = "/downloads/cv.pdf"
+    link = "/downloads/resume.pdf"
     text = "résumé"
 
