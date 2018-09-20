@@ -12,10 +12,10 @@ Please use this website to connect with me and learn more about my passions and 
 
 Cheers!
 
+&#13;
 
+&#13;
 
-- [LinkedIn](https://www.linkedin.com/in/elizastarr1/) 
-- [GitHub](https://github.com/elizastarr) 
-- [email](mailto:eliza.r.starr@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/elizastarr1/) &#215; [GitHub](https://github.com/elizastarr) &#215; [email](mailto:eliza.r.starr@gmail.com)
 
 
