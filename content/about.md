@@ -4,7 +4,7 @@ date: 2018-09-18T23:53:27-04:00
 draft: false 
 ---
 
-I'm Eliza Starr, data science doer.
+I'm Eliza Starr, an aspiring data scientist.
 
 I study data science and computer science at the College of Charleston in South Carolina, USA.
 
