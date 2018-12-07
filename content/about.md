@@ -4,11 +4,11 @@ date: 2018-09-18T23:53:27-04:00
 draft: false 
 ---
 
-I'm Eliza Starr, data science doer.
+I'm Eliza Starr, a data science doer.
 
-I study data science and computer science at the College of Charleston in South Carolina, USA.
+I study data science and computer science at the College of Charleston in South Carolina.
 
-Please use this website to connect with me and learn more about my passions and experiences.
+Please use this website to connect with me and learn about my passions and experiences.
 
 Cheers!
 
