@@ -16,6 +16,6 @@ Cheers!
 
 &#13;
 
-[LinkedIn](https://www.linkedin.com/in/elizastarr1/) &#215; [GitHub](https://github.com/elizastarr) &#215; [email](mailto:eliza.r.starr@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/elizastarr1/) &#215; [GitHub](https://github.com/elizastarr) &#215; [Email](mailto:eliza.r.starr@gmail.com)
 
 
